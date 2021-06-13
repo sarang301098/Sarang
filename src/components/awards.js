@@ -14,41 +14,26 @@ class Awards extends React.Component {
                         <ul class="fa-ul mb-0">
                             <li>
                                 <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                                Google Analytics Certified Developer
+                                Alibaba Cloud Certified
                             </li>
                             <li>
                                 <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                                Mobile Web Specialist - Google Certification
+                                InsideSherpa Accenture Discovery Programe Certified
                             </li>
                             <li>
                                 <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                                1
-                                <sup>st</sup>
-                                Place - University of Colorado Boulder - Emerging Tech Competition 2009
+                                JP MORGAN CHASE & CO. Software Engineering Virtual Experience
+                            </li>
+
+                            <li>
+                                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                                Deloitte. Technology Consulting Virtual Experience
                             </li>
                             <li>
                                 <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                                1
-                                <sup>st</sup>
-                                Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-                            </li>
-                            <li>
-                                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                                2
-                                <sup>nd</sup>
-                                Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                            </li>
-                            <li>
-                                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                                1
-                                <sup>st</sup>
-                                Place - James Buchanan High School - Hackathon 2006
-                            </li>
-                            <li>
-                                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                                3
-                                <sup>rd</sup>
-                                Place - James Buchanan High School - Hackathon 2005
+                                4
+                                <sup>th</sup>
+                                GTU Regional Tech-Fest Event Code Reducer Event
                             </li>
                         </ul>
                     </div>

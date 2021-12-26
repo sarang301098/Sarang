@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import profileImg from './profile.jpg';
 
 import About from './components/about';
 import Awards from './components/awards';

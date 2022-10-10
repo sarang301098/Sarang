@@ -13,29 +13,38 @@ class Education extends React.Component {
                         <h2 class="mb-5">Education</h2>
                         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                             <div class="flex-grow-1">
+                                <h3 class="mb-0">University At Albany, SUNY</h3>
+                                <div class="subheading mb-3">Masters of Science</div>
+                                <div>Computer Science</div>
+                                {/* <p>CGPA: 8.60</p> */}
+                            </div>
+                            {/* <div class="flex-shrink-0"><span class="text-primary">August 2016 - Aug 2020</span></div> */}
+                        </div>
+                        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                            <div class="flex-grow-1">
                                 <h3 class="mb-0">Government Engineering College sect-28, Gandhinagar</h3>
                                 <div class="subheading mb-3">Bachelor of Engineering</div>
                                 <div>Computer Engineering</div>
                                 <p>CGPA: 8.60</p>
                             </div>
-                            <div class="flex-shrink-0"><span class="text-primary">August 2016 - Aug 2020</span></div>
+                            <div class="flex-shrink-0"><span class="text-primary">August 2022 - Aug 2020</span></div>
                         </div>
-                        <div class="d-flex flex-column flex-md-row justify-content-between">
+                        {/* <div class="d-flex flex-column flex-md-row justify-content-between">
                             <div class="flex-grow-1">
                                 <h3 class="mb-0">J.L High School</h3>
                                 <div class="subheading mb-3">H.S.C in Science(Gujarat Board)</div>
                                 <p>Result: 86% </p>
                             </div>
                             <div class="flex-shrink-0"><span class="text-primary">August 2014 - May 2016</span></div>
-                        </div>
-                        <div class="d-flex flex-column flex-md-row justify-content-between">
+                        </div> */}
+                        {/* <div class="d-flex flex-column flex-md-row justify-content-between">
                             <div class="flex-grow-1">
                                 <h3 class="mb-0">J.L High School</h3>
                                 <div class="subheading mb-3">S.S.C (Gujarat Board)</div>
                                 <p>Result: 83% </p>
                             </div>
                             <div class="flex-shrink-0"><span class="text-primary">August 2013 - Mar 2014</span></div>
-                        </div>
+                        </div> */}
                     </div>
                 </section>
             </React.Fragment>

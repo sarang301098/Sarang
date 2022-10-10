@@ -13,7 +13,7 @@ class Skill extends React.Component {
                         <h2 class="mb-5">Skills</h2>
                         <div class="subheading mb-3">Programming Languages & Tools</div>
                         <ul class="list-inline dev-icons">
-                            <li class="list-inline-item"><i class="fab fa-code"></i></li>
+                            {/* <li class="list-inline-item"><i class="fab fa-code"></i></li> */}
                             <li class="list-inline-item"><i class="fab fa-html5"></i></li>
                             <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
                             <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
@@ -28,7 +28,7 @@ class Skill extends React.Component {
                         <ul class="fa-ul mb-0">
                             <li>
                                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                                HTML, CSS (Basic)
+                                HTML, CSS 
                             </li>
                             <li>
                                 <span class="fa-li"><i class="fas fa-check"></i></span>
@@ -53,6 +53,14 @@ class Skill extends React.Component {
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
                                     MeteorJs
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="fas fa-check"></i></span>
+                                    Bootstrap
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="fas fa-check"></i></span>
+                                    Docker
                                 </li>
                             </li>
                         </ul>

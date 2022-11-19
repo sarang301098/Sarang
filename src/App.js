@@ -26,8 +26,8 @@ class App extends React.Component {
           <Education />
           <hr class="m-0" />
           <Skill />
-          <hr class="m-0" />
-          <Intrest />
+          {/* <hr class="m-0" /> */}
+          {/* <Intrest /> */}
           <hr class="m-0" />
           <Awards />
         </div>

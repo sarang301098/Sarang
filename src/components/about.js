@@ -21,11 +21,11 @@ class About extends React.Component {
             </div>
             <p class="lead mb-5">.</p>
             <div class="social-icons">
-              {/* <a class="social-icon" href="https://www.linkedin.com/in/sarang-patel-785b4a1a4/"><i class="fab fa-linkedin-in"></i></a> */}
-              {/* <a class="social-icon" href="https://github.com/sarang301098"><i class="fab fa-github"></i></a> */}
+              <a class="social-icon" href="https://www.linkedin.com/in/sarang-patel-785b4a1a4/"><i class="fab fa-linkedin-in"></i></a>
+              <a class="social-icon" href="https://github.com/sarang301098"><i class="fab fa-github"></i></a>
               {/* <a class="social-icon" href="https://twitter.com/sarang_3010"><i class="fab fa-twitter"></i></a> */}
-              {/* <a class="social-icon" href="https://www.facebook.com/sarang.patel.12576"><i class="fab fa-facebook-f"></i></a> */}
-              {/* <a class="social-icon" href="https://www.instagram.com/sarang_3010/"><i class="fab fa-instagram"></i></a> */}
+              <a class="social-icon" href="https://www.facebook.com/sarangpatel1998"><i class="fab fa-facebook-f"></i></a>
+              <a class="social-icon" href="https://www.instagram.com/sarang.p23"><i class="fab fa-instagram"></i></a>
             </div>
           </div>
         </section>

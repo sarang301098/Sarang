@@ -1,5 +1,6 @@
 import React from "react";
 import profileImg from "../profile.jpg";
+import profileImg2 from "../profile_2.jpg";
 
 class Header extends React.Component {
   constructor() {
@@ -21,7 +22,7 @@ class Header extends React.Component {
             <span class="d-none d-lg-block">
               <img
                 class="img-fluid img-profile rounded-circle mx-auto mb-2"
-                src={profileImg}
+                src={profileImg2}
                 alt="..."
               />
             </span>
@@ -63,11 +64,11 @@ class Header extends React.Component {
                   Skills
                 </a>
               </li>
-              <li class="nav-item">
+              {/* <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#interests">
                   Interests
                 </a>
-              </li>
+              </li> */}
               <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#awards">
                   Awards
